@@ -1,0 +1,20 @@
+.position-relative {
+    position: relative;
+  }
+  
+  .text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    right:;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(49, 198, 139);
+  }
+  
+  .ul {
+    text-align: right;
+    text-align-last: right;
+  }
